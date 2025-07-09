@@ -8,6 +8,7 @@ clock = pygame.time.Clock()
 SCREEN_WIDTH = 1200
 SCREEN_HEIGHT = 490
 FPS = 60
+scroll = 0
 SCROLL_SPEED = 3
 
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
